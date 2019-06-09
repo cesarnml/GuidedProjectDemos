@@ -1,2 +1,2 @@
 # GuidedProjectDemos
-All of LABSCE Career Lessons with Resources
+All of LABSCE Career Lessons with Resources and Tips
